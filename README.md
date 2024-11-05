@@ -1,2 +1,2 @@
-# adria-anna-b.github.io
+# adri-anna-b.github.io
 Landing page for Nonprofit class events
