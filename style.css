@@ -1,0 +1,14 @@
+:root {
+    --capdcRED: #c70551;
+    --capdcBLUE: #005088;
+    --dfsRED: #b42c33;
+    --dfsTAN: #CDB58D;
+    --dtiDARKPINK: #ee2e98;
+    --dtiLIGHTPINK: #ff9be4;
+
+  }
+
+
+h1{
+    color: var(--dfsRED);
+}
