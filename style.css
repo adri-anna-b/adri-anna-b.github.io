@@ -7,31 +7,53 @@
     --dtiLIGHTPINK: #ff9be4;
 }
 
+html{
+    background-color: var(--capdcBLUE);
+}
 
 h1{
-    color: var(--dfsRED);
+    color: white;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h4{
+    color: white;
+    text-align: center;
 }
 
 .bigButton{
     width: 90%;
     height: 15%;
-    background-color: var(--capdcBLUE);
-    border: 2px solid black;
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
     margin: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    transition: transform 0.2s;
+    text-decoration: none;
+}
+
+.bigButton:hover{
+    transform: scale(1.05);
 }
 
 a{
-    color: white;
+    color: var(--capdcBLUE);
     margin: 5%;
     text-align: center;
+    text-decoration: none;
 }
 
 .buttonImg{
     display: block;
     width: auto;
     height: 5%;
+    max-height: 25vh;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
