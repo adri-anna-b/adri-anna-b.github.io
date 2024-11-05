@@ -5,10 +5,35 @@
     --dfsTAN: #CDB58D;
     --dtiDARKPINK: #ee2e98;
     --dtiLIGHTPINK: #ff9be4;
-
-  }
+}
 
 
 h1{
     color: var(--dfsRED);
+}
+
+.bigButton{
+    width: 90%;
+    height: 15%;
+    background-color: var(--capdcBLUE);
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5%;
+}
+
+a{
+    color: white;
+    margin: 5%;
+    text-align: center;
+}
+
+.buttonImg{
+    display: block;
+    width: auto;
+    height: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    background-color: white;
 }
