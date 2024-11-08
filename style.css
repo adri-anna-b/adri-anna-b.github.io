@@ -11,6 +11,10 @@ html{
     background-color: var(--capdcBLUE);
 }
 
+header{
+    font-family: 'Georgia';
+}
+
 h1{
     color: white;
     text-align: center;
@@ -36,10 +40,12 @@ h4{
     margin-bottom: 2%;
     transition: transform 0.2s;
     text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Georgia';
 }
 
 .bigButton:hover{
-    transform: scale(1.05);
+    transform: scale(1.03);
 }
 
 a{
@@ -58,4 +64,9 @@ a{
     margin-right: auto;
     margin-top: 0;
     background-color: white;
+}
+
+#footerText{
+    text-align: right;
+    color: white;
 }
