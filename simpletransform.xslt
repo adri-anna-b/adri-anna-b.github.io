@@ -9,7 +9,7 @@
 			<title>New Herbal Tea Available!</title>
 		</head>
 		<body>
-			<img src="photos/javaco_tea_logo.gif" />
+			<img src="javaco_tea_logo.gif" />
 			<h1>
 		</body>
 		</html>
